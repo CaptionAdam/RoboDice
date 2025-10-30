@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="64"
+   viewBox="0 0 33.866666 16.933333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="BootScreenTemplate.svg"
+   inkscape:export-filename="BootScreen.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5.7162828"
+     inkscape:cx="63.415337"
+     inkscape:cy="27.115523"
+     inkscape:window-width="1707"
+     inkscape:window-height="995"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#000000ff" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layout"
+     style="display:none">
+    <rect
+       style="display:inline;fill:#ff00ff;stroke-width:12.604"
+       id="rect6"
+       width="13.49375"
+       height="16.933334"
+       x="0"
+       y="0"
+       inkscape:label="LogoBlock" />
+    <rect
+       style="display:inline;fill:#00ff00;stroke-width:10.6927"
+       id="rect5"
+       width="20.372917"
+       height="10.847917"
+       x="13.49375"
+       y="0"
+       inkscape:label="TopText" />
+    <rect
+       style="display:inline;fill:#ff0000;stroke-width:8.00865"
+       id="rect5-7"
+       width="20.372915"
+       height="6.0854177"
+       x="13.49375"
+       y="10.847917"
+       inkscape:label="BottomText" />
+  </g>
+  <g
+     inkscape:label="Design"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;fill:#ffffff;stroke-width:0.160426;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 6.8446476,1.0321327 A 0.76212562,0.75646722 0 0 0 6.1304162,1.5106833 L 0.87887246,14.7225 a 0.76204939,0.75639159 0 0 0 0.42897944,0.981138 0.76204939,0.75639159 0 0 0 0.988792,-0.426107 l 1.8945562,-4.765844 7.2627789,5.171661 a 0.76212562,0.75646722 0 0 0 1.156738,-0.882182 L 10.033378,8.0349596 12.206268,7.0513233 A 0.76204939,0.75639159 0 0 0 12.583354,6.0492691 0.76204939,0.75639159 0 0 0 11.573804,5.6749813 L 9.4930638,6.6167878 7.5519613,1.5209844 A 0.76212562,0.75646722 0 0 0 6.8446476,1.0321327 Z M 6.824204,3.887829 8.1032815,7.2454918 4.9158104,8.6880124 Z M 8.6435948,8.6636621 10.293468,12.99497 5.9335363,9.8904766 Z"
+       id="path954"
+       inkscape:label="MakerMark" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.93356px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#f9f9f9;stroke-width:19.5851"
+       x="33.029911"
+       y="5.6444068"
+       id="text7"
+       transform="scale(0.71531496,1.3979856)"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="fill:#f9f9f9;stroke-width:19.5851"
+         x="33.029911"
+         y="5.6444068">ROBODICE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:8.01501px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke-width:31.8177"
+       x="23.757587"
+       y="17.161749"
+       id="text6"
+       inkscape:label="BottomText(Version)"
+       transform="scale(1.019267,0.9810972)"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#ffffff;stroke-width:31.8177"
+         x="23.757587"
+         y="17.161749">V1.0</tspan></text>
+  </g>
+</svg>
