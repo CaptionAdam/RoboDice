@@ -4,6 +4,10 @@
 //OLED Stuff
 #include "DisplayControl.h"
 
+#define StartingMode 1
+
+
+
 #define RollButton D8
 #define SplitButton D7
 #define SwitchButton D9
@@ -12,7 +16,7 @@ int roll = 0;
 int dVal = 0;
 int screenPrint = 1;
 int FirstRoll = 1;
-int RollMode = 1;
+int RollMode = StartingMode;
 int OutputMode = 0;
 int iD1 = 0;
 int iD2 = 0;
